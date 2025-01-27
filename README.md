@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This is unmaintained. Use https://github.com/AlexKnauth/hollowknight-autosplit-wasm instead.
+
 # hkautosplit
 [LiveSplit One](https://one.livesplit.org) autosplitter and load remover for Hollow Knight 1.5 (64-bit) on Linux.
 
